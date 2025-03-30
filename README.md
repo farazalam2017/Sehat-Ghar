@@ -29,4 +29,3 @@ This project was collaboratively developed by **Faraz Alam** and **[Aman Upadhya
 For any queries, please reach out to us at:
 
 - **Email:** farazalam2017@gmail.com
-- **Phone:** 7880448882
