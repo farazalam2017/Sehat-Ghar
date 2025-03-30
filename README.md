@@ -2,6 +2,7 @@
 
 ## About Sehat Ghar
 
+[Live Here] (https://sehat-ghar.netlify.app/)
 Sehat Ghar is a technology-driven health and diet management platform aimed at promoting well-being through customized meal planning and delivery. Our service helps busy individuals maintain a balanced diet by offering personalized weekly meal plans and delivering meals directly to their doorsteps.
 
 ## Tech Stack
